@@ -143,3 +143,10 @@ h3{
 .iconContainer:hover{
     transform: scale(1.2);
 }
+
+@media screen and (min-width: 375px) and (max-width: 600px) {
+
+
+}
+    
+}
